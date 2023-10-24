@@ -22,7 +22,7 @@ logging:
 
 configserver:
   name: Docker JHipster Registry
-  status: ERP Gateway Dev Server is now connected to the JHipster Registry running in Docker
+  status: ERP Dev Server is now connected to the JHipster Registry running in Docker
 
 eureka:
   instance:
